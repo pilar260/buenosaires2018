@@ -19,6 +19,7 @@ Workshop for Buenos Aires on 11 May 2018.
 - Start downloading GitHub Desktop from: https://desktop.github.com/
 
 ### 4. Introduction to working with notebooks in Colaboratory
+ I did a change in the document
 
 - Visit https://github.com/tompollard/buenosaires2018 and "fork" the repository to copy it.
 - Open `1_intro_to_python.ipynb` in Colaboratory and work through the notebook
